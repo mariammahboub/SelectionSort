@@ -1,0 +1,15 @@
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.exe
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.deps.json
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.runtimeconfig.json
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.dll
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\bin\Debug\net6.0\SelectionSort.pdb
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.AssemblyReference.cache
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfoInputs.cache
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfo.cs
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.dll
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\obj\Debug\net6.0\refint\SelectionSort.dll
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.pdb
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\obj\Debug\net6.0\SelectionSort.genruntimeconfig.cache
+C:\Course .NETASP\Resourse\Algorthim\SelectionSort\SelectionSort\obj\Debug\net6.0\ref\SelectionSort.dll
